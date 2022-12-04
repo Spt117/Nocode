@@ -1,0 +1,14 @@
+{
+    "networks": {
+        "11155111": {
+            "name": "sepolia",
+            "address": "0xF22debD2F910743c5f2854dcccB716e20645D750"
+        }
+    },
+    "history": [
+        {
+            "name": "sepolia",
+            "address": "0xF22debD2F910743c5f2854dcccB716e20645D750"
+        }
+    ]
+}
